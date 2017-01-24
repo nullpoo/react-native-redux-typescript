@@ -1,8 +1,9 @@
-# react-native-typescript
+# react-native-redux-typescript
 
-Minimal template of a [React Native](https://facebook.github.io/react-native/) project with [Typescript](https://www.typescriptlang.org/).
+Minimal react-native with redux template of a [React Native](https://facebook.github.io/react-native/) project with [Typescript](https://www.typescriptlang.org/).
 
 Inspire from [ReactNativeTS](https://github.com/mrpatiwi/ReactNativeTS).
+And the base is [react-native-typescript](https://github.com/nullpoo/react-native-typescript).
 
 ## Getting Started
 
@@ -11,8 +12,8 @@ Inspire from [ReactNativeTS](https://github.com/mrpatiwi/ReactNativeTS).
 Clone this repository:
 
 ```sh
-git clone https://github.com/nullpoo/react-native-typescript.git
-cd react-native-typescript
+git clone https://github.com/nullpoo/react-native-redux-typescript.git
+cd react-native-redux-typescript
 ```
 
 Install dependencies:
